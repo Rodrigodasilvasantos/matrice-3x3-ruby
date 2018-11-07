@@ -1,1 +1,1 @@
-# matrice-3x3-ruby
+A matrice 3x3 in ruby
